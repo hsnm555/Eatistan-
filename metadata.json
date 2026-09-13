@@ -1,0 +1,6 @@
+{
+  "name": "Fast Food Order & WhatsApp Billing",
+  "description": "Offline-ready mobile fast food POS billing and order system with editable active carts, past order editing, customizable menu catalog & prices, daily deals, order history, and thermal receipt printing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
